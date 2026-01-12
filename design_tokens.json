@@ -1,0 +1,78 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-12",
+  "colors": {
+    "primary": "#0B0C0E",
+    "secondary": "#FFFFFF",
+    "accent": "#FF6B6B",
+    "background": "#F5F5F5",
+    "text": {
+      "primary": "#050506",
+      "secondary": "#A8A8A8",
+      "disabled": "#D4D4D8"
+    },
+    "grey": {
+      "light": "#EDEFF2",
+      "medium": "#D4D4D8",
+      "dark": "#A8A8A8"
+    },
+    "black": {
+      "default": "#0B0C0E",
+      "light": "#050506"
+    },
+    "white": "#FFFFFF"
+  },
+  "spacing": {
+    "xs": 4,
+    "sm": 8,
+    "md": 16,
+    "lg": 24,
+    "xl": 32,
+    "xxl": 40
+  },
+  "typography": {
+    "fontSize": {
+      "xs": 12,
+      "sm": 14,
+      "md": 16,
+      "lg": 18,
+      "xl": 20,
+      "xxl": 24
+    },
+    "fontWeight": {
+      "regular": "400",
+      "medium": "500",
+      "semibold": "600",
+      "bold": "700"
+    }
+  },
+  "borderRadius": {
+    "none": 0,
+    "sm": 4,
+    "md": 8,
+    "lg": 12,
+    "xl": 16,
+    "full": 999
+  },
+  "button": {
+    "height": {
+      "small": 40,
+      "medium": 48,
+      "large": 56
+    },
+    "minWidth": {
+      "small": 64,
+      "medium": 120,
+      "large": 200
+    },
+    "borderWidth": 2,
+    "iconSize": 20,
+    "iconSpacing": 8
+  },
+  "padding": {
+    "button": {
+      "horizontal": 18,
+      "vertical": 24
+    }
+  }
+}
